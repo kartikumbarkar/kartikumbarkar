@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kartikumbarkar
-- 👀 I’m interested in Webdev,Devops
+- 👀 I’m interested in Webdev,Devops,DSA.
 - 🌱 I’m currently learning Cloud
 - 📫 How to reach me
    Linkedin:https://www.linkedin.com/in/kartik-umbarkar-a6a085220
