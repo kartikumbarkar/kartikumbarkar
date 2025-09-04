@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kartikumbarkar
-- 👀 I’m interested in Webdev,Devops,DSA.
-- 🌱 I’m currently learning Cloud,Reactjs,Angular
+- 👀 I’m interested in AI/ML,Devops,DSA.
 .
 - 📫 How to reach me
    Linkedin:https://www.linkedin.com/in/kartik-umbarkar-a6a085220
